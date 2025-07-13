@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**vanshkapadia11/vanshkapadia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vansh**, an 18-year-old passionate developer currently learning **React.js** and building my way toward full-stack and mobile **app development** 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Learning
+- ⚛️ React.js (with Hooks & Routing)
+- 🎨 Tailwind CSS & UI design
+- 🌐 JavaScript fundamentals
+- 🔌 APIs & localStorage
+- 🛠️ Project structuring and component logic
+
+---
+
+### 🧠 My Road to App Development
+
+
+React.js → React Router → Tailwind CSS
+        ↓
+React Native → Node.js + Express
+        ↓
+Firebase / MongoDB → Full-stack & Mobile Apps
+📚 Current Projects
+🎬 Movie App using TMDB API
+
+✅ Todo List with edit + modal
+
+📊 Dashboard with cards, stats & charts
+
+🌤️ Weather App with API integration
+
+🌓 Dark mode toggle + transitions
+
+🎯 2025 Goals
+✅ Build & deploy 10+ real-world apps
+
+💼 Start freelancing or internships
+
+📱 Publish my first app on the Play Store
+
+🌟 Learn React Native and backend (Node.js)
+
+📫 Let's Connect
+GitHub: vanshkapadia11
+
+LinkedIn: (coming soon...)
+
+Portfolio: (coming soon...)
+
+💬 "Learning by building is my mantra. Every bug is a lesson. Every project is a milestone."
+— Vansh
