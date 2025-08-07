@@ -43,7 +43,7 @@ I'm **Vansh**, an 18-year-old passionate developer currently learning **React.js
 
 ### 📫 Let's Connect
 
-- GitHub: [vanshkapadia11](https://github.com/vanshkapadia11)
+- GitHub: [vanshkapadia11](https://github.com/vanshkapadia11) OR (https://github.com/VanshKapadiaIG)
 - LinkedIn: *(add when ready)*
 - Portfolio: *(coming soon...)*
 
