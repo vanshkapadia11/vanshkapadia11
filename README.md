@@ -1,60 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header" />
+### hi, i'm vansh. 👋
 
-# vansh kapadia
+18 y/o · full-stack developer · india 🇮🇳
 
-`18` · full-stack developer · building things that work
+i build real things and ship them.
 
-[![](https://img.shields.io/badge/vidiflow.co-live-58a6ff?style=flat-square&labelColor=0d1117)](https://vidiflow.co)
+<br/>
 
-</div>
+[![vidiflow.co](https://img.shields.io/badge/→%20vidiflow.co-black?style=for-the-badge)](https://vidiflow.co)
 
-<br />
-
-```ts
-const vansh = {
-  stack  : ["React", "TypeScript", "Node.js", "MongoDB", "Python"],
-  building: "VidiFlow — download anything, from anywhere",
-  next   : ["React Native", "System Design"],
-  motto  : "Ship fast. Learn faster.",
-}
-```
-
-<br />
+<br/>
 
 ---
 
-### things i've built
-
-| project | what it does | stack |
-|---|---|---|
-| [VidiFlow](https://vidiflow.co) | download videos from TikTok, YouTube, Instagram & more | `TS` `Next.js` `Tailwind` |
-| [Downloader API](https://github.com/vanshkapadia11/API-For-Youtube-And-Instagram-Downloader) | REST API powering VidiFlow's backend | `Python` `Flask` `yt-dlp` |
-| [AI Resume Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker) | instant AI feedback on your resume | `JS` `AI` |
-| [Habit Tracker](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB) | full-stack habit tracker with MongoDB | `JS` `Express` `MongoDB` |
-| [PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original) | merge, compress & convert PDFs in browser | `JS` |
-
-<br />
+**react** · **typescript** · **node.js** · **mongodb** · **python**
 
 ---
 
-### stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github)
-
 </div>
 
-<br />
+<br/>
+
+**what i'm working on**
+- 🎬 [VidiFlow](https://vidiflow.co) — free video downloader for YouTube, TikTok, Instagram & more
+- 🐍 [Downloader API](https://github.com/vanshkapadia11/API-For-Youtube-And-Instagram-Downloader) — the Python/Flask backend that powers it
+
+**what i've shipped**
+- 🤖 [AI Resume Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker) — instant AI feedback on your resume
+- ✅ [Habit Tracker](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB) — full-stack tracker with MongoDB backend
+- 📄 [PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original) — merge, compress & convert PDFs in the browser
+
+<br/>
 
 ---
 
 <div align="center">
 
-`building in public` · `open to collaborate`
+![github stats](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=70a5fd&text_color=c9d1d9&bg_color=00000000)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
+<br/>
+
+*ship fast · learn faster · build in public*
 
 </div>
