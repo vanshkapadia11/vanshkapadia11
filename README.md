@@ -1,112 +1,60 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
-██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
-██║   ██║███████║██╔██╗ ██║███████╗███████║
-╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
- ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header" />
 
-### Vansh Kapadia
-**Full-Stack Developer & Builder**
+# vansh kapadia
 
-[![Portfolio](https://img.shields.io/badge/vidiflow.co-000000?style=flat-square&logo=vercel&logoColor=white)](https://vidiflow.co)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+`18` · full-stack developer · building things that work
+
+[![](https://img.shields.io/badge/vidiflow.co-live-58a6ff?style=flat-square&labelColor=0d1117)](https://vidiflow.co)
 
 </div>
 
----
+<br />
 
 ```ts
 const vansh = {
-  age              : 18,
-  focus            : ["React.js", "Full-Stack", "App Development"],
-  currentlyBuilding: "VidiFlow — multi-platform video downloader",
-  learning         : ["React Native", "Node.js", "System Design"],
-  motto            : "Ship fast. Learn faster.",
-};
+  stack  : ["React", "TypeScript", "Node.js", "MongoDB", "Python"],
+  building: "VidiFlow — download anything, from anywhere",
+  next   : ["React Native", "System Design"],
+  motto  : "Ship fast. Learn faster.",
+}
 ```
 
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[VidiFlow](https://vidiflow.co)**
-`TypeScript` `Next.js` `Tailwind`
-
-Free video downloader supporting TikTok, YouTube, Instagram, Facebook, Pinterest & more. No login. No watermarks. CDN-powered 4K downloads.
-
-[→ vidiflow.co](https://vidiflow.co)
-
-</td>
-<td width="50%">
-
-**[AI Resume Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)**
-`JavaScript` `AI`
-
-AI-powered resume quality analyzer. Get instant, structured feedback on your resume's content, clarity, and impact.
-
-[→ View Repo](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Habit Tracker](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)**
-`JavaScript` `MongoDB`
-
-Personal habit tracker with a real MongoDB backend. Build streaks, track consistency, stay accountable.
-
-[→ View Repo](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)
-
-</td>
-<td width="50%">
-
-**[PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original)**
-`JavaScript`
-
-A clean PDF utility for managing, merging, and working with PDF files right in the browser.
-
-[→ View Repo](https://github.com/vanshkapadia11/Pdf-Hub-Original)
-
-</td>
-</tr>
-</table>
+<br />
 
 ---
 
-## Stack
+### things i've built
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React.js · TypeScript · Tailwind CSS · Next.js |
-| **Backend** | Node.js · Express · Python |
-| **Database** | MongoDB |
-| **Tooling** | Git · Vercel · VS Code |
+| project | what it does | stack |
+|---|---|---|
+| [VidiFlow](https://vidiflow.co) | download videos from TikTok, YouTube, Instagram & more | `TS` `Next.js` `Tailwind` |
+| [Downloader API](https://github.com/vanshkapadia11/API-For-Youtube-And-Instagram-Downloader) | REST API powering VidiFlow's backend | `Python` `Flask` `yt-dlp` |
+| [AI Resume Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker) | instant AI feedback on your resume | `JS` `AI` |
+| [Habit Tracker](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB) | full-stack habit tracker with MongoDB | `JS` `Express` `MongoDB` |
+| [PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original) | merge, compress & convert PDFs in browser | `JS` |
+
+<br />
 
 ---
 
-## Stats
+### stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkapadia11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+![](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github)
 
 </div>
 
+<br />
+
 ---
 
 <div align="center">
 
-*Building in public · open to collaborate*
+`building in public` · `open to collaborate`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
 
 </div>
