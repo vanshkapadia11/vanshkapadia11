@@ -1,96 +1,112 @@
-<h1 align="center">Hey, I'm Vansh 👋</h1>
+<div align="center">
 
-<p align="center">
-  18 y/o developer • React learner • Building cool stuff one project at a time
-</p>
+```
+██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║
+██║   ██║███████║██╔██╗ ██║███████╗███████║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║
+ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://vidiflow.co" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 VidiFlow-Live-blue?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2025-Building%20Mode%20ON-orange?style=for-the-badge" />
-</p>
+### Vansh Kapadia
+**Full-Stack Developer & Builder**
 
----
+[![Portfolio](https://img.shields.io/badge/vidiflow.co-000000?style=flat-square&logo=vercel&logoColor=white)](https://vidiflow.co)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 
-## 🧑‍💻 About Me
-
-- 🚀 18 y/o self-taught developer grinding toward **full-stack & mobile app dev**
-- ⚛️ Currently deep in **React.js** — hooks, routing, state, the works
-- 🎬 Built **[VidiFlow](https://vidiflow.co)** — a free video downloader for TikTok, YouTube, Instagram & more
-- 🌱 Learning by building — every project teaches me something new
-- 🎯 Goal: ship 10+ real-world apps, land my first internship, and hit the Play Store
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+```ts
+const vansh = {
+  age              : 18,
+  focus            : ["React.js", "Full-Stack", "App Development"],
+  currentlyBuilding: "VidiFlow — multi-platform video downloader",
+  learning         : ["React Native", "Node.js", "System Design"],
+  motto            : "Ship fast. Learn faster.",
+};
+```
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🎬 [VidiFlow](https://github.com/vanshkapadia11/VidiFlow) — [vidiflow.co](https://vidiflow.co)
-Free online video downloader for TikTok, YouTube, Instagram, Facebook, Pinterest & more.  
-No app. No login. Just paste and download.  
-`TypeScript` `Next.js` `TailwindCSS`
+<table>
+<tr>
+<td width="50%">
 
----
+**[VidiFlow](https://vidiflow.co)**
+`TypeScript` `Next.js` `Tailwind`
 
-### 🤖 [AI Resume Quality Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)
-Upload your resume and get instant AI-powered feedback on quality, structure, and improvements.  
+Free video downloader supporting TikTok, YouTube, Instagram, Facebook, Pinterest & more. No login. No watermarks. CDN-powered 4K downloads.
+
+[→ vidiflow.co](https://vidiflow.co)
+
+</td>
+<td width="50%">
+
+**[AI Resume Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)**
 `JavaScript` `AI`
 
----
+AI-powered resume quality analyzer. Get instant, structured feedback on your resume's content, clarity, and impact.
 
-### ✅ [Habit Tracker with MongoDB](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)
-A personal habit tracking app with a real MongoDB backend — build streaks, stay consistent.  
+[→ View Repo](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Habit Tracker](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)**
 `JavaScript` `MongoDB`
 
----
+Personal habit tracker with a real MongoDB backend. Build streaks, track consistency, stay accountable.
 
-### 📄 [PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original)
-A PDF utility tool for managing and working with PDF files.  
+[→ View Repo](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)
+
+</td>
+<td width="50%">
+
+**[PDF Hub](https://github.com/vanshkapadia11/Pdf-Hub-Original)**
 `JavaScript`
 
----
+A clean PDF utility for managing, merging, and working with PDF files right in the browser.
 
-## 📊 GitHub Stats
+[→ View Repo](https://github.com/vanshkapadia11/Pdf-Hub-Original)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkapadia11&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🎯 2025 Goals
-
-- [x] Launch VidiFlow 🎬
-- [ ] Ship 10+ real-world projects
-- [ ] Land first freelance client or internship
-- [ ] Learn React Native
-- [ ] Publish an app on the Play Store 📱
-- [ ] Learn backend with Node.js + Express
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
+## Stack
 
-<p>
-  <a href="https://github.com/vanshkapadia11"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://vidiflow.co"><img src="https://img.shields.io/badge/VidiFlow-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-</p>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js · TypeScript · Tailwind CSS · Next.js |
+| **Backend** | Node.js · Express · Python |
+| **Database** | MongoDB |
+| **Tooling** | Git · Vercel · VS Code |
 
-> *"Learning by building is my mantra. Every bug is a lesson. Every project is a milestone."*
+---
+
+## Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkapadia11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building in public · open to collaborate*
+
+</div>
