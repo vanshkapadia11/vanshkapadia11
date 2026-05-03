@@ -6,12 +6,6 @@
 
 i build real things and ship them.
 
-<br/>
-
-[![vidiflow.co](https://img.shields.io/badge/→%20vidiflow.co-black?style=for-the-badge)](https://vidiflow.co)
-
-<br/>
-
 ---
 
 **react** · **typescript** · **node.js** · **mongodb** · **python**
