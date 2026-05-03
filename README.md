@@ -37,7 +37,7 @@ i build real things and ship them.
 
 <div align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=70a5fd&text_color=c9d1d9&bg_color=00000000)
+![github stats](https://streak-stats.demolab.com/?user=vanshkapadia11)
 
 <br/>
 
