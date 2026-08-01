@@ -9,87 +9,323 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
 ```
 
-# Full-Stack Developer | 18 | India 🇮🇳
+# **Vansh Kapadia** 👨‍💻  
+### `Full-Stack Developer | Algo Trader | 18 | India 🇮🇳`
+###### *Building real products that scale • Trading bots that work • Open-source lover*
 
-<sub>Building real products that scale</sub>
+---
+
+</div>
+
+## 🌟 **Spotlight**
+
+> **Currently:** Building systematic NIFTY intraday trading bots that generate real signals  
+> **Passion:** Full-stack development + quantitative trading + open-source  
+> **Mission:** Create tools that empower traders & developers
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🤖 **NIFTY Intraday Structure Bot** 
+###### Live Algorithmic Trading Signal Generator
+
+```
+Status: Live 24/5 | Users: Growing | Code: Open Source
+```
+
+**🎯 What's Special:**
+- Real-time market classification (Trend vs Range days)
+- VWAP pullback trading with precision entry signals
+- Bollinger Bands + OI wall structural analysis
+- Telegram alerts with full trade details
+- Google Sheets permanent trading journal
+- Deployed on Render free tier (never sleeps)
+
+**💻 Built With:**
+```python
+Backend:   Python + Flask
+Data:      yfinance + NSE API scraping
+Alerts:    Telegram Bot API
+Logging:   Google Sheets + gspread
+Deploy:    Render + UptimeRobot
+Strategy:  VWAP | Bollinger Bands | Open Interest Analysis
+```
+
+**📊 Key Metrics:**
+- Strict risk management: 2 losses/3 trades max per day
+- Killzone enforcement (9:30-10:00 AM, 1:30-2:30 PM IST)
+- 30-second update intervals for live data
+- 100% paper trading (backtested extensively)
+
+**🔗 Links:**
+- [Full Repository](https://github.com/vanshkapadia11/Indian-Options-Trading)
+- [Detailed README](https://github.com/vanshkapadia11/Indian-Options-Trading#readme)
+- [Live Bot Status](https://github.com/vanshkapadia11/Indian-Options-Trading)
+
+---
+
+### 🎬 **VidiFlow** 
+###### Free Video Downloader Platform
+
+```
+Status: Live | Platforms: 100+ | Users: Active
+```
+
+**✨ Features:**
+- Download from YouTube, TikTok, Instagram, Dailymotion, etc.
+- Lightning-fast processing
+- No limits, no watermarks
+- Beautiful, minimal UI
+- Mobile responsive
+
+**💻 Tech Stack:**
+```
+Frontend:  React + TypeScript + Tailwind CSS
+Backend:   Node.js + Express
+Database:  MongoDB
+Deployment: Vercel + Render
+```
+
+**🌐 Access:**
+- **Live Site:** [vidiflow.co](https://vidiflow.co)
+- **API Repo:** [API-For-Youtube-And-Instagram-Downloader](https://github.com/vanshkapadia11/API-For-Youtube-And-Instagram-Downloader)
+
+---
+
+### 🤝 **AI Resume Checker**
+###### Intelligent Resume Analysis & Optimization
+
+```
+Status: Live | Feature-Rich | AI-Powered
+```
+
+**🎓 Capabilities:**
+- AI analyzes your resume structure & content
+- Gets instant optimization suggestions
+- Calculates ATS compatibility score
+- Identifies missing keywords
+- Provides industry-specific feedback
+- Real-time analysis & recommendations
+
+**💻 Tech Stack:**
+```
+Frontend:  React + TypeScript
+Backend:   Node.js + Express
+AI:        Claude API + OpenAI GPT
+Deploy:    Vercel
+```
+
+**🔗 Repository:** [AI-Resume-Quality-Checker](https://github.com/vanshkapadia11/AI-Resume-Quality-Checker)
+
+---
+
+### ✅ **Habit Tracker**
+###### Full-Stack Habit Building Application
+
+```
+Status: Live | Database: MongoDB | Full Features
+```
+
+**📈 What You Can Do:**
+- Track unlimited daily habits
+- Beautiful progress visualization with charts
+- Streak counter for motivation
+- Weekly/monthly analytics
+- Mobile-first responsive design
+- Data persistence across sessions
+
+**💻 Tech Stack:**
+```
+Frontend:  React + Material-UI
+Backend:   Node.js + Express
+Database:  MongoDB
+Charts:    Chart.js + Recharts
+```
+
+**🔗 Repository:** [Habit-Tracker-With-MongoDB](https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB)
+
+---
+
+### 📄 **PDF Hub**
+###### Browser-Based PDF Toolkit
+
+```
+Status: Live | Client-Side Processing | No Uploads
+```
+
+**🛠️ Tools Available:**
+- **Merge PDFs** - Combine multiple files instantly
+- **Compress PDFs** - Reduce file size significantly
+- **Convert Formats** - Change PDF to other formats
+- **Extract Content** - Pull text & images from PDFs
+- **All Local** - Process on your device (no server)
+
+**💻 Tech Stack:**
+```
+Frontend:  React + TypeScript
+PDF Lib:   PDF.js + pdfkit
+Styling:   Tailwind CSS
+```
+
+**🔗 Repository:** [Pdf-Hub-Original](https://github.com/vanshkapadia11/Pdf-Hub-Original)
+
+---
+
+## 🎨 **Complete Tech Arsenal**
+
+<div align="center">
+
+| **Category** | **Expertise** |
+|:---:|:---|
+| 🎨 **Frontend** | React • TypeScript • Tailwind CSS • Material-UI • Next.js |
+| 🔧 **Backend** | Node.js • Python • Flask • Express • REST APIs |
+| 💾 **Databases** | MongoDB • PostgreSQL • SQLite • Google Sheets |
+| 🔐 **APIs & Services** | Telegram Bot • NSE API • yfinance • Claude API • OpenAI |
+| 🚀 **Deployment & DevOps** | Render • Vercel • GitHub Actions • Docker • UptimeRobot |
+| 📊 **Data & Trading** | VWAP • Bollinger Bands • Technical Analysis • Backtesting |
+| 🛠️ **Tools** | Git • GitHub • VS Code • Postman • MongoDB Atlas |
 
 </div>
 
 ---
 
-<div style="font-family: 'JetBrains Mono', monospace;">
+## 💻 **Development Philosophy**
 
-## TECH STACK
+```python
+"""
+Core Principles That Guide My Work:
+"""
 
-```
-Frontend     → React, TypeScript, Tailwind CSS
-Backend      → Node.js, Python, Flask
-Database     → MongoDB, PostgreSQL
-Tools        → Git, Docker, REST APIs
-```
+# Ship Fast > Perfect
+# Done is better than flawless. Speed to market matters.
 
----
+# Learn Faster  
+# Every project is a learning opportunity. Embrace challenges.
 
-## PROJECTS
+# Build Public
+# Share your work. Inspire others. Grow together.
 
-### 🎬 VidiFlow
-Free video downloader for YouTube, TikTok, Instagram & more. Fast, simple, no limits.
+# Think Long-Term
+# Write scalable code. Design for growth.
 
-**Stack:** React · Node.js · MongoDB  
-**Live:** https://vidiflow.co  
-**API:** https://github.com/vanshkapadia11/API-For-Youtube-And-Instagram-Downloader
-
----
-
-### 🤖 AI Resume Checker
-Instant AI feedback on your resume. Optimize your profile and stand out to recruiters.
-
-**Stack:** React · Node.js · AI APIs  
-**Repo:** https://github.com/vanshkapadia11/AI-Resume-Quality-Checker
-
----
-
-### ✅ Habit Tracker
-Full-stack habit tracking application. Monitor daily habits, visualize progress, build consistency.
-
-**Stack:** React · Node.js · MongoDB  
-**Repo:** https://github.com/vanshkapadia11/Habit-Tracker-With-MongoDB
-
----
-
-### 📄 PDF Hub
-Browser-based PDF tools. Merge, compress, and convert PDFs instantly. No uploads, no tracking.
-
-**Stack:** React · TypeScript  
-**Repo:** https://github.com/vanshkapadia11/Pdf-Hub-Original
-
----
-
-## PHILOSOPHY
-
-```
-> ship fast      done is better than perfect
-> learn faster   every project teaches something
-> build public   share knowledge, inspire others
+# Stay Humble
+# Always a student. Always improving.
 ```
 
 ---
 
-## CONNECT
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshkapadia11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vanshkapadia11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=vanshkapadia11&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakNum=79c0ff&sideLabels=ff7b72&dates=c9d1d9)
+
+</div>
+
+---
+
+## 🎯 **Current Roadmap**
 
 ```
-github   → https://github.com/vanshkapadia11
-email    → your@email.com
-twitter  → https://twitter.com
-linkedin → https://linkedin.com
+Q1 2024  → Expand trading bot features
+         → Add multi-timeframe analysis
+         → Build ML prediction models
+
+Q2 2024  → Scale VidiFlow infrastructure  
+         → Add more video platforms
+         → Optimize performance
+
+Q3 2024  → Launch trading education platform
+         → Create interactive strategy backtester
+         → Build community features
+
+Q4 2024  → Full-stack SaaS product launch
+         → API monetization strategy
+         → Expand to international markets
+```
+
+---
+
+## 🎓 **Skills Breakdown**
+
+<div align="center">
+
+| Skill | Proficiency | Projects |
+|:---:|:---:|:---|
+| **Full-Stack Web Dev** | ⭐⭐⭐⭐⭐ | VidiFlow, PDF Hub, Habit Tracker, AI Resume |
+| **Python Backend** | ⭐⭐⭐⭐⭐ | Trading Bot, API Development |
+| **React Frontend** | ⭐⭐⭐⭐⭐ | All web projects |
+| **Trading Systems** | ⭐⭐⭐⭐⭐ | NIFTY Bot (live) |
+| **Database Design** | ⭐⭐⭐⭐☆ | MongoDB, PostgreSQL schemas |
+| **API Development** | ⭐⭐⭐⭐⭐ | VidiFlow API, multiple integrations |
+| **DevOps & Deploy** | ⭐⭐⭐⭐☆ | Render, Vercel, GitHub Actions, UptimeRobot |
+| **Quantitative Analysis** | ⭐⭐⭐⭐⭐ | Trading strategy development |
+
+</div>
+
+---
+
+## 🤝 **Open To**
+
+- 💬 **Collaboration:** Trading bots, fintech, full-stack projects
+- 🎓 **Knowledge Sharing:** Market structure, trading strategies, tech
+- 💼 **Opportunities:** Product development, startup ideas
+- 🚀 **Building:** Open-source tools, SaaS products
+- 🔗 **Networking:** Traders, developers, entrepreneurs
+
+---
+
+## 📬 **Get In Touch**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-contact%40vanshkapadia.dev-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vanshkapadia.dev)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%40vanshkapadia11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanshkapadia11)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Kapadia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshkapadia11)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-vanshkapadia11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshkapadia11)
+
+</div>
+
+---
+
+## 🎬 **Latest Activity**
+
+```
+🚀 Actively maintaining 5+ GitHub repositories
+📊 Building live NIFTY trading infrastructure  
+💻 Full-stack web development projects
+🤖 Experimenting with ML & AI integrations
+📝 Writing about trading & tech on Medium
+🌟 Contributing to open-source community
 ```
 
 ---
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vanshkapadia11&theme=dark)
+### **"Code that works. Products that scale. Trader at heart."**
 
-</div>
+```
+Learn faster than yesterday.
+Build better than last week.
+Ship more than this quarter.
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanshkapadia11&color=FF6B6B&style=flat-square)
+
+---
+
+**Crafted with ❤️ by [Vansh Kapadia](https://github.com/vanshkapadia11)**  
+*© 2026 | Always Learning | Always Building | Always Trading*
+
+🚀 *Let's build something amazing together!*
 
 </div>
