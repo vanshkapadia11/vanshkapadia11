@@ -286,10 +286,6 @@ Q4 2024  → Full-stack SaaS product launch
 
 [![Email](https://img.shields.io/badge/Email-contact%40vanshkapadia.dev-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vanshkapadia.dev)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%40vanshkapadia11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanshkapadia11)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Kapadia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshkapadia11)
-&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-vanshkapadia11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshkapadia11)
 
 </div>
@@ -317,15 +313,6 @@ Q4 2024  → Full-stack SaaS product launch
 Learn faster than yesterday.
 Build better than last week.
 Ship more than this quarter.
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=vanshkapadia11&color=FF6B6B&style=flat-square)
-
----
-
-**Crafted with ❤️ by [Vansh Kapadia](https://github.com/vanshkapadia11)**  
-*© 2026 | Always Learning | Always Building | Always Trading*
-
-🚀 *Let's build something amazing together!*
+``
 
 </div>
